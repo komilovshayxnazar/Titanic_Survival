@@ -124,5 +124,3 @@ models:
 ---
 
 ## Muallif
-
-**Shayxnazar Komilov** — [GitHub](https://github.com/komilovshayxnazar)
